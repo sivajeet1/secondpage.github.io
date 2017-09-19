@@ -1,0 +1,71 @@
+h {
+  color: green;
+  width: 500px;
+ 
+  font-size: 20px;
+  font-family: 'Freckle Face', cursive;
+  text-align: left; 
+}
+h1 {
+	color: red;
+	text-align: center;
+	float: center;
+	font-size: 30px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Freckle Face', cursive;
+}
+h2 {
+	color: red;
+	text-align: center;
+	float: center;
+	font-size: 30px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Freckle Face', cursive;
+}
+h4 {
+	color: red;
+	text-align: center;
+	float: center;
+	font-size: 30px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Freckle Face', cursive;
+}
+h3 {
+	color: red;
+	text-align: center;
+	float: center;
+	font-size: 30px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Freckle Face', cursive;
+}
+p {
+  color: yellow;
+  width: 1270px;
+   
+  font-size: 20px;
+  font-family: 'Freckle Face', cursive;
+  text-align: left;
+}
+a {
+  color: yellow;
+  width: 1270px;
+   
+  font-size: 20px;
+  font-family: 'Freckle Face', cursive;
+  text-align: left;
+}
+h6 {
+  color: yellow;
+  width: 1270px;
+   
+  font-size: 20px;
+  font-family: 'Freckle Face', cursive;
+  text-align: left;
+}
+h5 {
+  color: yellow;
+  width: 1270px;
+   
+  font-size: 20px;
+  font-family: 'Freckle Face', cursive;
+  text-align: left;
+}
+html {
+  background-color: #000000;
+}
